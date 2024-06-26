@@ -2,5 +2,5 @@
 - 👀 fresher exploring something good.
 - 🌱 I’m currently learning c++
 - 📫 How to reach me sachitkohli147@gmail.com
-- 😄 Pronouns: her
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: winners never quite and quiters never wins.
