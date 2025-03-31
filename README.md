@@ -1,6 +1,19 @@
-- 👋 Hi, I’m sachit-create
-- 👀 fresher exploring something good.
-- 🌱 I’m currently learning c++
-- 📫 How to reach me sachitkohli147@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: winners never quite and quiters never wins.
+🚀 About Me
+👋 Hey there! I'm a C++ enthusiast passionate about Data Structures and Algorithms (DSA) and system-level programming. Currently diving deep into AI/ML, Cloud Computing, and backend development, I aim to build high-performance applications and contribute to open-source projects.
+
+🔥 What I Do
+🖥️ C++ Development (Competitive Programming & Problem Solving)
+
+📊 Data Structures & Algorithms (Mastering the core concepts)
+
+🤖 AI/ML & Cloud Computing (Exploring future technologies)
+
+🎮 Game & System Programming (Optimizing performance)
+
+🎯 Goals
+📌 Get an internship by 2025
+📌 Build impactful projects in C++ & AI
+📌 Contribute to open-source
+
+📫 Connect with Me
+  ✉️ Sachitkohli09@gmail.com
