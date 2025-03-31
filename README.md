@@ -10,10 +10,5 @@
 
 🎮 Game & System Programming (Optimizing performance)
 
-🎯 Goals
-📌 Get an internship by 2025
-📌 Build impactful projects in C++ & AI
-📌 Contribute to open-source
-
 📫 Connect with Me
   ✉️ Sachitkohli09@gmail.com
