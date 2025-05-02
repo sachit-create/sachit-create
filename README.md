@@ -29,8 +29,8 @@
 
 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachitkohli&show_icons=true&theme=radical" alt="Sachit's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachitkohli&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sachit-create&show_icons=true&theme=radical" alt="Sachit's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachit-create&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
