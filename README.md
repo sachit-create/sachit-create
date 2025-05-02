@@ -1,14 +1,40 @@
-🚀 About Me
-👋 Hey there! I'm a C++ enthusiast passionate about Data Structures and Algorithms (DSA) and system-level programming. Currently diving deep into AI/ML, Cloud Computing, and backend development, I aim to build high-performance applications and contribute to open-source projects.
+<h1 align="center">Hi 👋, I'm Sachit Kohli</h1>
+<h3 align="center">CS Engineering Student | Passionate Java Coder</h3>
 
-🔥 What I Do
-🖥️ C++ Development (Competitive Programming & Problem Solving)
+---
 
-📊 Data Structures & Algorithms (Mastering the core concepts)
+🌱 I’m currently learning:
+- 💻 DSA in Java (Target: Complete by Sept 15, 2025)
+- 🧠 AI/ML and Cloud Computing (From 2nd Year Onward)
 
-🤖 AI/ML & Cloud Computing (Exploring future technologies)
+📌 Current Focus Areas:
+- C++ Projects and Algorithms
+- GitHub Profile Building
+- Resume + LinkedIn Growth
 
-🎮 Game & System Programming (Optimizing performance)
+---
 
-📫 Connect with Me
-  ✉️ Sachitkohli09@gmail.com
+📫 How to reach me:
+- Email: [sachitkohli147@gmail.com]
+---
+
+🛠️ Languages & Tools:
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachitkohli&show_icons=true&theme=radical" alt="Sachit's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachitkohli&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+⚡ Fun Fact:
+> If you are here AI will never able to ger your job 🧠⚡
+
