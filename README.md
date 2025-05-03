@@ -36,5 +36,5 @@
 ---
 
 ⚡ Fun Fact:
-> If you are here AI will never able to ger your job 🧠⚡
+> If you are here AI will never able to get your job 🧠⚡
 
