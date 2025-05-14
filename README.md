@@ -10,7 +10,6 @@
 📌 Current Focus Areas:
 - C++ Projects and Algorithms
 - GitHub Profile Building
-- Resume + LinkedIn Growth
 
 ---
 
