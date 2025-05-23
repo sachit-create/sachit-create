@@ -36,4 +36,4 @@
 
 ⚡ Fun Fact:
 > If you are here AI will never able to get your job 🧠⚡
-
+> Winners never quits and quiters never wins.
