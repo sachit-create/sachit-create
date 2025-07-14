@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachit Kohli</h1>
-<h3 align="center">CS Engineering Student | Passionate Java Coder</h3>
+<h3 align="center">CS Engineering Student | Passionate python Coder</h3>
 
 ---
 
