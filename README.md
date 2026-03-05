@@ -1,2 +1,2 @@
 👋 Hi, I'm Sachit Kohli
-Correctly Learning DevOps and Cloud
+Currently Learning DevOps Tools and Cloud architectures.
