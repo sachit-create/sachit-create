@@ -36,7 +36,7 @@ I'm a developer and cloud enthusiast who builds practical, user-focused projects
 ## Get in touch
 
 - GitHub: https://github.com/sachit-create
-- Email: (add your email here)
+- Linkedin: https://www.linkedin.com/in/sachit-kohli
 
 ---
 
