@@ -21,7 +21,6 @@ I'm a developer and cloud enthusiast who builds practical, user-focused projects
   </tr>
 </table>
 
-> Note: The typing line at the top and the streak card are animated. The charts update automatically.
 
 ---
 
