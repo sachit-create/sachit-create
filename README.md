@@ -1,8 +1,27 @@
 # Sachit Create
 
+<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=22&duration=3000&pause=1000&color=0F172A&background=FFFFFF00&center=true&lines=Hi+%E2%80%94+I'm+Sachit+%F0%9F%91%8B;Developer+%26+Cloud+Enthusiast" alt="Typing animation" />
+
 Hi — I'm Sachit 👋
 
 I'm a developer and cloud enthusiast who builds practical, user-focused projects and learns by doing. I enjoy solving problems with clean code, automation, and simple, reliable tooling.
+
+---
+
+## Quick stats & charts (some animated)
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=sachit-create&show_icons=true&theme=github_dark&hide_border=true" alt="Sachit's GitHub stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachit-create&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sachit-create&theme=dark&hide_border=true" alt="GitHub streak" /></td>
+    <td><img src="https://activity-graph.herokuapp.com/graph?username=sachit-create&area=true&color=4c1" alt="Contributions graph" /></td>
+  </tr>
+</table>
+
+> Note: The typing line at the top and the streak card are animated. The charts update automatically.
 
 ---
 
@@ -36,7 +55,7 @@ I'm a developer and cloud enthusiast who builds practical, user-focused projects
 ## Get in touch
 
 - GitHub: https://github.com/sachit-create
-- Linkedin: https://www.linkedin.com/in/sachit-kohli
+- LinkedIn: https://www.linkedin.com/in/sachit-kohli
 
 ---
 
