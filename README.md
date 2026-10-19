@@ -9,7 +9,7 @@ I'm a developer and cloud enthusiast who builds practical, user-focused projects
 
 ---
 
-## Quick stats & charts (some animated)
+## Quick stats & charts
 
 <table>
   <tr>
@@ -20,7 +20,6 @@ I'm a developer and cloud enthusiast who builds practical, user-focused projects
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sachit-create&theme=dark&hide_border=true" alt="GitHub streak" /></p>
 
-> Note: The top typing line is white and there's a vibrant accent line; the streak card is animated. The contribution graph has been removed as requested.
 
 ---
 
@@ -57,5 +56,3 @@ I'm a developer and cloud enthusiast who builds practical, user-focused projects
 - LinkedIn: https://www.linkedin.com/in/sachit-kohli
 
 ---
-
-Thanks for visiting my profile — take a look at my projects and feel free to reach out!
