@@ -52,7 +52,6 @@ I'm a developer and cloud enthusiast who builds practical, user-focused projects
 
 ## Get in touch
 
-- GitHub: https://github.com/sachit-create
-- LinkedIn: https://www.linkedin.com/in/sachit-kohli
-
+- See my professional like [LinkedIn](https://www.linkedin.com/in/sachit-kohli)
+- My journey [Portfolio](https://sachit-create)
 ---
