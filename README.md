@@ -11,13 +11,6 @@ I'm a developer and cloud enthusiast who builds practical, user-focused projects
 
 ## Quick stats & charts
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=sachit-create&show_icons=true&theme=github_dark&hide_border=true" alt="Sachit's GitHub stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachit-create&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" /></td>
-  </tr>
-</table>
-
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sachit-create&theme=dark&hide_border=true" alt="GitHub streak" /></p>
 
 
