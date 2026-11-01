@@ -36,6 +36,7 @@ I'm a developer and cloud enthusiast who builds practical, user-focused projects
 - Finance-Tracker — A learning project built with HTML/CSS/JS that integrates APIs.
 - PortFolio_Website — My personal portfolio and project showcase.
 - Resource-Optimization-System-* — Experimental projects around optimization and intelligent dashboards.
+- Uniform-Resource-Optimizer-* — Energy Consumption Opmitimzer, Research Based for Hackthon. 
 
 (See the repository list on my profile for more projects and learning work.)
 
