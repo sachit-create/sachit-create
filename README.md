@@ -49,7 +49,6 @@ I'm a developer and cloud enthusiast who builds practical, user-focused projects
 ## Get in touch
 
 - See my professional life [LinkedIn](https://www.linkedin.com/in/sachit-kohli)
-- My journey [Portfolio](https://www.sachithere.online)
 - Learning focus: DSA, Cloud, backend, and practical automation
 
 ---
